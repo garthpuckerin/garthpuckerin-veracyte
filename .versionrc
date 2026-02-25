@@ -1,0 +1,14 @@
+{
+  "types": [
+    { "type": "feat", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "chore", "section": "Maintenance" },
+    { "type": "docs", "section": "Documentation" },
+    { "type": "style", "section": "Styling" },
+    { "type": "refactor", "section": "Refactoring" },
+    { "type": "perf", "section": "Performance" },
+    { "type": "test", "section": "Testing" }
+  ],
+  "commitUrlFormat": "https://github.com/BlurredConcepts/garthpuckerin-veracyte/commit/{{hash}}",
+  "compareUrlFormat": "https://github.com/BlurredConcepts/garthpuckerin-veracyte/compare/{{previousTag}}...{{currentTag}}"
+}
