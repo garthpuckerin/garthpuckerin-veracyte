@@ -9,6 +9,6 @@
     { "type": "perf", "section": "Performance" },
     { "type": "test", "section": "Testing" }
   ],
-  "commitUrlFormat": "https://github.com/BlurredConcepts/garthpuckerin-veracyte/commit/{{hash}}",
-  "compareUrlFormat": "https://github.com/BlurredConcepts/garthpuckerin-veracyte/compare/{{previousTag}}...{{currentTag}}"
+  "commitUrlFormat": "https://github.com/garthpuckerin/garthpuckerin-veracyte/commit/{{hash}}",
+  "compareUrlFormat": "https://github.com/garthpuckerin/garthpuckerin-veracyte/compare/{{previousTag}}...{{currentTag}}"
 }
